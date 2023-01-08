@@ -1,29 +1,6 @@
-# Plan
+## Byte the Web
 
-> building a personal website for Acon
+1. Building a website in under 2 hours! -> [plan.md](plan.md)
+2. Deploy your website with Github pages -> [deploy.md](deploy.md)
 
-![](discordscreenshot.jpg)
-
-- [ ] design website layout on Figma
-- [ ] create files (html + css)
-- [ ] initialize Git repo
-- [ ] add styling
-- [ ] add custom font
-- [ ] make sure website is responsive
-
-## Sections
-
-- [ ] landing
-  - [ ] navbar
-  - [ ] name
-  - [ ] social links
-  - [ ] image
-- [ ] about
-  - [ ] add about text
-- [ ] projects
-  - [ ] project:
-    - [ ] image
-    - [ ] name
-    - [ ] short description
-- [ ] contact / footer
-  - [ ] social links
+Learn more about Byte the Web: https://mini.xdhacks.com/hackteam6/byte-the-web
